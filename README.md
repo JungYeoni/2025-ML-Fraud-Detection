@@ -10,7 +10,7 @@
 
 * **Dataset:** Kaggle Credit Card Fraud Detection Dataset (September 2013)
 * **Key Challenge:** 0.172%의 희소한 사기 데이터를 효과적으로 학습시키는 것.
-* **Goal:** 오탐(False Positive)을 최소화하며 **AUPRC(Area Under Precision-Recall Curve)**를 최대화.
+* **Goal:** 오탐(False Positive)을 최소화하며 **AUPRC(Area Under Precision-Recall Curve)** 를 최대화.
 
 ## Team Members
 
