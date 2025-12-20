@@ -81,7 +81,7 @@ AUPRC(Area Under Precision-Recall Curve)를 주 지표로 설정하여 평가했
 ## File Structure
 
 ```bash
-Credit-Card-Fraud-Detection/
+2025-ML-Fraud-Detection/
 ├── notebooks/
 │   ├── 01_EDA_and_Preprocessing.ipynb  # 탐색적 데이터 분석 및 전처리
 │   ├── 02_Modeling_Comparison.ipynb    # 모델 별 성능 비교
