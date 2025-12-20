@@ -6,7 +6,7 @@
 **2025-1학기 기계학습 팀 프로젝트 (1조)** 결과물입니다.
 유럽 카드 소지자들의 신용카드 거래 내역 데이터를 활용하여, 정상 거래와 사기 거래(Fraud)를 구분하는 **이진 분류(Binary Classification)** 모델을 구축했습니다.
 
-사기 거래가 전체의 **0.172%**에 불과한 극심한 **클래스 불균형(Imbalanced Data)** 문제를 해결하고, 실제 금융 시스템에서 중요한 '높은 감지율(Recall)'과 '정확성(Precision)'의 균형을 맞추는 데 집중했습니다.
+사기 거래가 전체의 **0.172%** 에 불과한 극심한 **클래스 불균형(Imbalanced Data)** 문제를 해결하고, 실제 금융 시스템에서 중요한 '높은 감지율(Recall)'과 '정확성(Precision)'의 균형을 맞추는 데 집중했습니다.
 
 * **Dataset:** Kaggle Credit Card Fraud Detection Dataset (September 2013)
 * **Key Challenge:** 0.172%의 희소한 사기 데이터를 효과적으로 학습시키는 것.
