@@ -78,22 +78,6 @@ AUPRC(Area Under Precision-Recall Curve)를 주 지표로 설정하여 평가했
 
 > **Conclusion:** 초기 원본 데이터 모델 대비, **SMOTE 비율(1:10)** 조정 및 **Balanced Weight** 파라미터 튜닝을 통해 최종 AUPRC 점수를 **0.8807**로 향상시켰습니다.
 
-## File Structure
-
-```bash
-2025-ML-Fraud-Detection/
-├── notebooks/
-│   ├── 01_EDA_and_Preprocessing.ipynb  # 탐색적 데이터 분석 및 전처리
-│   ├── 02_Modeling_Comparison.ipynb    # 모델 별 성능 비교
-│   └── 03_Final_Model_Evaluation.ipynb # 최종 모델 튜닝 및 결과
-├── presentations/
-│   └── Team1_Project_Presentation.pdf  # 발표 자료
-├── data/
-│   └── (Data files not included due to size)
-├── README.md
-└── requirements.txt
-
-```
 
 ## How to Run
 
